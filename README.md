@@ -1,0 +1,1 @@
+# Chave_simetrica
